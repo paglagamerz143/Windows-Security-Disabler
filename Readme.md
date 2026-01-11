@@ -1,5 +1,5 @@
 # Windows Security Disabler
-![Image]([/assets/Rafid32.png](https://github.com/paglagamerz143/Windows-Security-Disabler/blob/main/assets/Rafid32.png?raw=true))
+![Image](https://github.com/paglagamerz143/Windows-Security-Disabler/blob/main/assets/Rafid32.png?raw=true)
 Rar Password : 123
 ### What This Project Does
 - Disable Windows Security For Permanent
